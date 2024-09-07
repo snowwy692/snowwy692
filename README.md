@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @snowwy692
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Javasctipt
